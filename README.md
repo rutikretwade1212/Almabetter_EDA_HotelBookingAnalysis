@@ -1,4 +1,5 @@
 # Almabetter_projects
+## Hotel Booking Analysis
 
 This Hotel Booking Analysis EDA project delves into the investigation of cancellations and their underlying patterns. It also provides actionable measures to minimize cancellations and boost revenue.
 
